@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#dpScheduler {
+    width: 100%;
+    height: 500px;
+}
+
+#dpScheduler {
+    width: 100%;
+    height: 100vh; /* 使用视口高度(viewport height)单位 */
+}
